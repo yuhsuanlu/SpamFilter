@@ -12,4 +12,5 @@
 Runs the app in the development mode
 
 ## Demo
-![](Demo.mov)
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/oZBnQHR5xgc/0.jpg)](https://www.youtube.com/watch?v=oZBnQHR5xgc)
+
